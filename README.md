@@ -20,7 +20,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/Souz4Ingrid/super-mario-game.git
+git clone https://github.com/Souz4Ingrid/Mario
 Acesse a pasta do projeto:
 
 bash
